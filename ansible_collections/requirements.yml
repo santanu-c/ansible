@@ -1,7 +1,7 @@
 ---
 collections:
 # point to a collection archive
-#- https://gitlab.com/cjung/ansible-lamp-collection/-/raw/master/cjung-lamp-1.0.0.tar.gz
 - /var/tmp/santanu-linux_base_plus-1.0.0.tar.gz
+- /var/tmp/santanu-monitoring-1.0.0.tar.gz
 # point to a collection on Ansible Galaxy
 #- awx.awx

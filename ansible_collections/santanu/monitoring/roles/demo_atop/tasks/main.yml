@@ -1,6 +1,0 @@
----
-# tasks file for demo_atop
-- name: install atop package
-  package:
-    name: atop
-    state: present
